@@ -7,6 +7,8 @@ For the last few months that I was on the team, I was responsible for:
 - Creating animations for each widget/component in the menu when interacted with and for each transition between menus
 - Writing the witty "tips" that appear in the loading screen.
 
+That Damn Goat shipped on Steam and Nintendo Switch in 2023/2024.
+
 ![options](https://github.com/nickybakes/tdg-ui/assets/47609027/444f3e51-9da3-419b-a193-563b7c40c904)
 
 ![tips](https://github.com/nickybakes/tdg-ui/assets/47609027/a389c1f8-4b46-4957-9934-b396e1ea807a)

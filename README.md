@@ -10,7 +10,7 @@ For the last few months that I was on the team, I was responsible for:
 That Damn Goat shipped on Steam and Nintendo Switch in 2023/2024.
 
 ![options](https://github.com/nickybakes/tdg-ui/assets/47609027/444f3e51-9da3-419b-a193-563b7c40c904)
-
+(above) I developed an easy to use UI Navigation system for our game that lets multiple people join in/drop out and control the menu together. This is one of the tools for setting up an individual Menu Screen
 ![tips](https://github.com/nickybakes/tdg-ui/assets/47609027/a389c1f8-4b46-4957-9934-b396e1ea807a)
 
 https://github.com/nickybakes/tdg-ui/assets/47609027/80c25e31-abf2-4bb2-879e-07630991bae7
